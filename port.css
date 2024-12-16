@@ -1,0 +1,27 @@
+.name{
+    /* background-color: rgb(255, 255, 255); */
+    color: rgb(26, 65, 206);
+    font-size: 20px;
+}
+
+img{
+    /* margin-left: 40px; */
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 8px;
+    border: 3px solid #000000;
+    padding: 10px;
+    
+}
+P{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: xx-large;
+    font-family: monospace;
+    font-style: italic;
+    /* text-shadow: 1px 1px; */
+}
